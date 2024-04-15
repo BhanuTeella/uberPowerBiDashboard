@@ -1,0 +1,1 @@
+This repository contains a Power BI report with two dashboards: the Ride Analysis Dashboard, which analyzes ride volume trends, durations, and financial performance, and the Geospatial Analysis Dashboard, which visualizes hotspots for pickup and dropoff locations.
